@@ -1,2 +1,3 @@
-# r_style_guide
-R Style Guide
+# R Style Guide
+
+!()[https://imgs.xkcd.com/comics/code_quality_2.png]
